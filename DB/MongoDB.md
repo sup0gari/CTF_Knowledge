@@ -1,10 +1,6 @@
 # MongoDB
 MongoDB is a NoSQL database that stores data in documents (like JSON objects) instead of tables and rows like a traditional SQL database.
 
-## Notes
-If commands are not found or do not work, you may need to install or update it
-The commands and tools used here were tested on Kali Linux (Rolling Edition)
-
 ## Port
 27017
 
