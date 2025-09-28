@@ -1,8 +1,5 @@
 # Microsoft SQL Server
 Microsoft SQL Server is a relational database management system (RDBMS) made by Microsoft.
-## Notes
-If commands are not found or do not work, you may need to install or update it.
-The commands and tools used here were tested on Kali Linux (Rolling Edition)
 
 ## Port
 1433
