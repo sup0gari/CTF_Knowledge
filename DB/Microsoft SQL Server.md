@@ -1,6 +1,7 @@
 # Microsoft SQL Server
 ## Notes
 If commands are not found or do not work, you may need to install or update it
+
 The commands and tools used here were tested on Kali Linux (Rolling Edition)
 
 ## Port
